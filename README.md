@@ -1,4 +1,4 @@
-**Hi everyone, I'm a Software Engineering from Vietnam 👋
+**Hi everyone, I'm a Software Engineering from Vietnam** 👋
                          
 * I'm learning C#.Net and Angular
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
