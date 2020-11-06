@@ -1,4 +1,5 @@
-**Hi everyone, I'm a Software Engineering from Vietnam** 👋
+**Hi everyone, I'm a Software Engineering from Vietnam** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
                          
 * I'm learning C#.Net and Angular
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
