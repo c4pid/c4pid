@@ -1,7 +1,7 @@
 **Hi everyone, I'm a Software Engineering from Vietnam** 👋
                          
 * I'm learning C#.Net and Angular
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <!--
 **c4pid/c4pid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
